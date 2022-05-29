@@ -13,6 +13,6 @@
 <h3 align = "justify">Find me on:</h3>
 <a href = "https://www.linkedin.com/in/kavindu-madushanka"><span style = "vertical-align:middle"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a href = "https://www.facebook.com/kavindu.madushanka.75/"><span style = "vertical-align:middle"><img src="https://img.icons8.com/doodle/452/facebook-new.png"/></a>
-<a href = "https://www.instagram.com/i.am.kavindu/"><span style = "vertical-align:middle"><img src="https://img.icons8.com/color/48/000000/instagram.png"/></a>
+<a href = "https://www.instagram.com/i.am.kavindu/"><span style = "vertical-align:middle"><img src="https://img.icons8.com/color/48/000000/instagram.png" style="width: "30px"/></a>
 
 
