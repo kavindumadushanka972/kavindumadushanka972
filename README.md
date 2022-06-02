@@ -1,4 +1,4 @@
-## Hi there, I'm Kavindu <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+## Hi there, I'm Kavindu 🐱‍🏍
 
 
 - 👨‍🎓 A Computer Engineering Undergraduate from [University of Peradeniya, SriLanka](https://www.pdn.ac.lk)
