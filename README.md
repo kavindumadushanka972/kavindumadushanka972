@@ -3,7 +3,7 @@
 
 - 👨‍🎓 A Computer Engineering Undergraduate from [University of Peradeniya, SriLanka](https://www.pdn.ac.lk)
 - 👨‍💻 Former Software Engineering Intern at [Creative Software](https://www.creativesoftware.com)
-- 👨🏻‍💻 Software Engineer at [Imigap](https://imigap.com)
+- 👨🏻‍💻 Frontend Web Developer at [Imigap](https://imigap.com)
 - 🌱 I'm Interested in Full Stack Web Development
 - 📫 Reach me via [kavindumadushanka972@gmail.com](mailto:kavindumadushanka972@gmail.com)
 
