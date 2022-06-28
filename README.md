@@ -1,9 +1,10 @@
-## Hi there, I'm Kavindu 😃
+## Hi there, I'm Kavindu 😃👋
 
 
 - 👨‍🎓 A Computer Engineering Undergraduate from [University of Peradeniya, SriLanka](https://www.pdn.ac.lk)
 - 👨‍💻 Former Software Engineering Intern at [Creative Software](https://www.creativesoftware.com)
 - 👨🏻‍💻 Frontend Web Developer at [Imigap](https://imigap.com)
+- 🌐 Web Team Lead at [ACES - University of Peradeniya](https://aces.ce.pdn.ac.lk)
 - 🌱 I'm Interested in Full Stack Web Development
 - 📫 Reach me via [kavindumadushanka972@gmail.com](mailto:kavindumadushanka972@gmail.com)
 
