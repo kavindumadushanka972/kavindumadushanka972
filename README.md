@@ -2,7 +2,7 @@
 
 
 - 👨‍🎓 A Computer Engineering Undergraduate from [University of Peradeniya, SriLanka](https://www.pdn.ac.lk)
-- 👨‍💻 A Software Engineering Intern at [Creative Software](https://www.creativesoftware.com)
+- 👨‍💻 Former Software Engineering Intern at [Creative Software](https://www.creativesoftware.com)
 - 🌱 I'm Interested in Full Stack Web Development
 - 📫 Reach me via [kavindumadushanka972@gmail.com](mailto:kavindumadushanka972@gmail.com)
 
