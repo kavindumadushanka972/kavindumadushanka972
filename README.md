@@ -1,4 +1,4 @@
-## Hi there, I'm Kavindu 
+## Hi there, I'm Kavindu 😃
 
 
 - 👨‍🎓 A Computer Engineering Undergraduate from [University of Peradeniya, SriLanka](https://www.pdn.ac.lk)
