@@ -1,5 +1,6 @@
 ## Hi there, I'm Kavindu 😃👋
 
+https://github-profile-trophy.vercel.app/?username=kavindumadushanka972&theme=juicyfresh
 
 - 👨‍🎓 A Computer Engineering Undergraduate from [University of Peradeniya, SriLanka](https://www.pdn.ac.lk)
 - 👨‍💻 Former Software Engineering Intern at [Creative Software](https://www.creativesoftware.com)
