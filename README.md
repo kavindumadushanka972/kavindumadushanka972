@@ -11,7 +11,12 @@
 - 📫 Reach me via [kavindumadushanka972@gmail.com](mailto:kavindumadushanka972@gmail.com)
 
 
-<img height="137px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kavindumadushanka972&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" /><img height="137px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kavindumadushanka972&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=dark" />
+<img height="137px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kavindumadushanka972&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" />
+
+<img height="137px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kavindumadushanka972&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=dark" />
+
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindumadushanka972&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=dark" />
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavindumadushanka972&hide_title=true&hide_border=true&show_icons=true&layout=compact&theme=dark" alt="kavindumadushanka972" /></p>
 
