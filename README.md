@@ -12,7 +12,7 @@
 
 
 <img height="137px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kavindumadushanka972&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" />
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindumadushanka972&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindumadushanka972&hide_title=true&hide_border=true&langs_count=10&theme=dark" />
 
 <!-- <img height="137px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kavindumadushanka972&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=dark" /> -->
 
