@@ -21,7 +21,7 @@
 
 <h3 align = "justify">Find me on:</h3>
 
-<a href = "https://iamkavindu.vercel.app" target="_blank"><span style = "vertical-align:middle"><img src="https://img.icons8.com/color/48/000000/website.png"/></a>
+<a href = "https://iamkavindu.vercel.app" target="_blank"><span style = "vertical-align:middle"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a href = "https://www.linkedin.com/in/kavindu-madushanka" target="_blank"><span style = "vertical-align:middle"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a href = "https://www.facebook.com/kavindu.madushanka.75/" target="_blank"><span style = "vertical-align:middle">
 <img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
