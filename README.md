@@ -27,5 +27,5 @@
 <a href = "https://www.instagram.com/i.am.kavindu/" target="_blank"><span style = "vertical-align:middle">
 <img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
 <a href = "https://medium.com/@kavindumadushanka972" target="_blank"><span style = "vertical-align:middle">
-<img src="https://img.icons8.com/color/96/medium-monogram.png"/></a>
+<img src="https://img.icons8.com/color/48/medium-monogram.png"/></a>
 
