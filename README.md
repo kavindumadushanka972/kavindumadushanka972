@@ -16,7 +16,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindumadushanka972&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=dark&hide=HTML,scss,css" />
 </p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavindumadushanka972&hide_title=true&hide_border=true&show_icons=true&layout=compact&theme=dark" alt="kavindumadushanka972" />
+[//]: <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavindumadushanka972&hide_title=true&hide_border=true&show_icons=true&layout=compact&theme=dark" alt="kavindumadushanka972" />
 
 
 <h3 align = "justify">Find me on:</h3>
