@@ -5,7 +5,7 @@
 - 👨‍🎓 B.Sc. Engineering(Hons) graduate from [Faculty of Engineering](https://eng.pdn.ac.lk), [University of Peradeniya](https://www.pdn.ac.lk), Sri Lanka
 - 👨🏻‍💻 Software Engineer at [Perfectus Tec](https://perfectustec.com)
 - 👨‍💻 Former Software Engineering Intern at [Creative Software](https://www.creativesoftware.com)
-- 💻 Full-Stack Web Developer at [Imigap](https://imigap.com)
+- 💻 Former Full-Stack Web Developer at [Imigap](https://imigap.com)
 - 🌐 Former Web Team Lead at [ACES - University of Peradeniya](https://aces.ce.pdn.ac.lk)
 - 🌱 I'm Interested in Full Stack Web Development
 - 📫 Reach me via [kavindumadushanka972@gmail.com](mailto:kavindumadushanka972@gmail.com)
