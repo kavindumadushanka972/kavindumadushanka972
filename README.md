@@ -3,7 +3,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=kavindumadushanka972&theme=juicyfresh&title=MultiLanguage,Repositories,Commits,PullRequest,Stars,Followers&no-frame=true)](https://github-profile-trophy.vercel.app/?username=kavindumadushanka972&theme=juicyfresh)
 
 - 👨‍🎓 B.Sc. Engineering(Hons) graduate from [Faculty of Engineering](https://eng.pdn.ac.lk), [University of Peradeniya](https://www.pdn.ac.lk), Sri Lanka
-- 👨🏻‍💻 Software Engineer at [Perfectus Tec](https://perfectustec.com)
+- 👨🏻‍💻 Senior Software Engineer at [Creative Software](https://www.creativesoftware.com)
+- 👨🏻‍💻 Former Software Engineer at [Perfectus Tec](https://perfectustec.com)
 - 👨‍💻 Former Software Engineering Intern at [Creative Software](https://www.creativesoftware.com)
 - 💻 Former Full-Stack Web Developer at [Imigap](https://imigap.com)
 - 🌐 Former Web Team Lead at [ACES - University of Peradeniya](https://aces.ce.pdn.ac.lk)
