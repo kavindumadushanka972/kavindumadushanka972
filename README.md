@@ -2,15 +2,13 @@
 
 ### Senior Software Engineer @Creative Software
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindumadushanka972&label=Profile views&color=0e75b6&style=flat" alt="kavindumadushanka972" /> </p>
+📫 How to reach me **kavindumadushanka972@gmail.com**
 
-- 📫 How to reach me **kavindumadushanka972@gmail.com**
+👨‍💻 All of my projects are available at **[https://kavinduu.vercel.app](https://kavinduu.vercel.app)**
 
-- 👨‍💻 All of my projects are available at **[https://kavinduu.vercel.app](https://kavinduu.vercel.app)**
+📝 I regularly write articles on **[https://medium.com/@kavindumadushanka972](https://medium.com/@kavindumadushanka972)**
 
-- 📝 I regularly write articles on **[https://medium.com/@kavindumadushanka972](https://medium.com/@kavindumadushanka972)**
-
-- 📄 Know about my experiences **[https://kavinduu.vercel.app/KAVINDU_madushanka_CV.pdf](https://kavinduu.vercel.app/KAVINDU_madushanka_CV.pdf)**
+📄 Know about my experiences **[https://kavinduu.vercel.app/KAVINDU_madushanka_CV.pdf](https://kavinduu.vercel.app/KAVINDU_madushanka_CV.pdf)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
