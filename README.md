@@ -1,7 +1,5 @@
 ## Hi there, I'm Kavindu 😃👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kavindumadushanka972&theme=juicyfresh&title=MultiLanguage,Repositories,Commits,PullRequest,Stars,Followers&no-frame=true)](https://github-profile-trophy.vercel.app/?username=kavindumadushanka972&theme=juicyfresh)
-
 - 👨‍🎓 B.Sc. Engineering(Hons) graduate from [Faculty of Engineering](https://eng.pdn.ac.lk), [University of Peradeniya](https://www.pdn.ac.lk), Sri Lanka
 - 👨🏻‍💻 Senior Software Engineer at [Creative Software](https://www.creativesoftware.com)
 - 👨🏻‍💻 Former Software Engineer at [Perfectus Tec](https://perfectustec.com)
@@ -16,8 +14,6 @@
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kavindumadushanka972&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindumadushanka972&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=dark&hide=HTML,scss,css" />
 </p>
-
-[//]: <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavindumadushanka972&hide_title=true&hide_border=true&show_icons=true&layout=compact&theme=dark" alt="kavindumadushanka972" />
 
 
 <h3 align = "justify">Find me on:</h3>
